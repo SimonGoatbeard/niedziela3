@@ -23,14 +23,7 @@
     color: #C44D58;
 } 
 
-H1{
-    color: red;
-}
-
-H2{
-    color: blue;
-}
-
-p{
-    color: green;
+    color: pink;
+p {
+    font-size: 30px;
 }
