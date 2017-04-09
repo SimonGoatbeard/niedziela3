@@ -30,6 +30,7 @@
     color: pink;
     font-size: 30px;
 }
+
 H1{
     color: red;
 }
@@ -38,10 +39,11 @@ H2{
     color: blue;
 }
 
-p{
-    
+.paragraph{
+    color: green;
+}
 
- 
+p {
     color: pink;
     font-size: 30px;
 
