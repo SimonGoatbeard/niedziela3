@@ -22,3 +22,15 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+
+H1{
+    color: red;
+}
+
+H2{
+    color: blue;
+}
+
+p{
+    color: green;
+}
