@@ -22,8 +22,11 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+.stankiewicz {
+	color: green;
+}
 
-
+<<<<<<< HEAD
 .pinkfont {
     color: pink;
     font-size: 30px;
@@ -38,5 +41,10 @@ h2 {
 }
 
 p{
-    color: green;
+    
+
+ 
+    color: pink;
+    font-size: 30px;
+
 }
