@@ -21,11 +21,6 @@
 
 .navigation__list__item__link--active {
     color: #C44D58;
-} 
-} 
-.Daniel-Iwaszko{
-	background: yellow;
-}
 
 }
 .stankiewicz {
@@ -33,13 +28,10 @@
 
 }
 
-
 .pinkfont {
     color: pink;
     font-size: 30px;
 }
-
-H1{
 
 h1 {
     color: red;
@@ -49,20 +41,13 @@ h2 {
     color: blue;
 }
 
-p{
 .paragraph{
     color: green;
 }
 
-
-
-
-p {
+p{
     color: pink;
     font-size: 30px;
-
-
-
 }
 
 .pierwszy {
